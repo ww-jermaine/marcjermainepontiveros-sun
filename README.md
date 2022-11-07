@@ -11,14 +11,14 @@ I'm Marc Jermaine Pontiveros, a web developer at Sun Asterisk and a student rese
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 October 2022 - To: 04 November 2022
+From: 30 October 2022 - To: 06 November 2022
 
-TypeScript   16 hrs 50 mins  ##################-------   72.55 %
-PHP          5 hrs 12 mins   ######-------------------   22.42 %
-Markdown     20 mins         -------------------------   01.50 %
-Bash         20 mins         -------------------------   01.50 %
-JavaScript   8 mins          -------------------------   00.64 %
-INI          7 mins          -------------------------   00.56 %
+TypeScript   17 hrs 15 mins  ################---------   64.94 %
+PHP          6 hrs 20 mins   ######-------------------   23.86 %
+Solidity     47 mins         #------------------------   02.96 %
+Bash         27 mins         -------------------------   01.74 %
+JavaScript   23 mins         -------------------------   01.49 %
+Markdown     22 mins         -------------------------   01.43 %
 ```
 
 <!--END_SECTION:waka-->
