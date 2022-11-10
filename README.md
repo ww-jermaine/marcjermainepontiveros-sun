@@ -2,7 +2,7 @@
 
 I'm Marc Jermaine Pontiveros, a web developer at Sun Asterisk and a student researcher currently taking up MS Computer Science at University of the Philippines Diliman. 
 
-- 🌱 I'm currently learning Laravel (PHP) and Next.js (Typescript)
+- 🌱 I'm currently learning Rails (Ruby) and Next.js (Typescript)
 - 👀 I'm interested in 
 - 📫 Feel free to contact me or send me an email at marcjermaine.pontiveros@sun-asterisk.com
 
